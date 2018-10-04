@@ -14,3 +14,6 @@ then copy the folder to `.local/share/gnome-shell/extensions` directory
 If you don't have git download folder from the page and extract the zip file then copy the folder to `.local/share/gnome-shell/extensions` directory.
 
 If you have installed successfully you should be able to enable it from Gnome Extensions app.
+
+# Credits
+I inspied from [maximize to workspace](https://github.com/rliang/gnome-shell-extension-maximize-to-workspace) extension while making this extension. This works for maximizing instead of fullscreen. Moreover it moves other windows to the next workspaces instead of the window itself.

@@ -47,7 +47,7 @@ function check(win) {
 	}
 }
 
-let _handle;
+let _handle = null;
 
 function enable() {
 	_handle = global.window_manager.connect('size-changed', (_, act) => {
