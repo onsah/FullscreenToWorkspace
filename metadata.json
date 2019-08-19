@@ -1,1 +1,1 @@
-{"name": "Fullscreen To Workspace", "description": "Moves program to first empty workspace when going to fullscreen", "uuid": "fullscreen-to-workspace@zer0.github.com", "shell-version": ["3.28.3"]}
+{"name": "Fullscreen To Workspace", "description": "Moves program to first empty workspace when going to fullscreen", "uuid": "FullscreenToWorkspace@localhost.localdomain", "shell-version": ["3.30.2"]}
